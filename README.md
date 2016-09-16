@@ -24,7 +24,9 @@ namespace CSharpTutorial {
 			Console.WriteLine("Very well then, " + name + "!");
 			Console.WriteLine("");
 			Console.WriteLine("We are going to play a game.");
-			Console.WriteLine("I am thinking of a number larger than 0 and you must to guess it correctly.");
+			Console.WriteLine("");
+			Console.WriteLine("I am thinking of a number from 1 to a");
+			Console.WriteLine("million and you must to guess it correctly.");
 			Console.WriteLine("");
 
 			Random random = new Random();
