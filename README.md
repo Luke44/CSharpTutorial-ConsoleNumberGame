@@ -25,7 +25,7 @@ namespace CSharpTutorial {
 			Console.WriteLine("");
 			Console.WriteLine("We are going to play a game.");
 			Console.WriteLine("");
-			Console.WriteLine("I am thinking of a number from 1 to a");
+			Console.WriteLine("I am thinking of a number from one to a");
 			Console.WriteLine("million and you must to guess it correctly.");
 			Console.WriteLine("");
 
