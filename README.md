@@ -45,6 +45,7 @@ namespace CSharpTutorial {
 						guess = int.Parse(guessString);
 					} catch (Exception) {
 						Console.WriteLine("That is not a number!");
+						Console.WriteLine("");
 						Console.WriteLine("Guess again!");
 						break;
 					}
